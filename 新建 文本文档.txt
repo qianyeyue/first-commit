@@ -1,4 +1,0 @@
-first commit learning
-12345
-git is a distributed
-12345
